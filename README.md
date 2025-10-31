@@ -29,7 +29,7 @@ The goal is to balance **innovation, human wellbeing, and energy efficiency** by
 ## Files Included
 | File | Description |
 
-| `GamingVaultHQ_AI_Efficiency_Framework_Proposal_TSMC.pdf` | Full proposal document submitted to TSMC. |
+| `GamingVaultHQ_AI_Efficiency_Framework_Proposal_TSMC.v2.pdf` | Full proposal document submitted to TSMC. |
 | `README.md` | Summary and license information. |
 
 ---
